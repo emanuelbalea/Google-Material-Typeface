@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>GoogleMaterialTypeface.Xamarin.Droid</id>
+    <version>2.2.0.1</version>
+    <title>GoogleMaterialTypeface.Xamarin.Droid</title>
+    <authors>Mikepenz, EmanuelBalea</authors>
+    <owners />
+    <description>C# bindings for https://github.com/mikepenz/Android-Iconics/tree/develop/google-material-typeface-library</description>
+    <summary />
+    <language>en</language>
+    <licenseUrl>https://github.com/emanuelbalea/Android-Iconics/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/emanuelbalea/Google-Material-Typeface</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>false</developmentDependency>
+    <copyright>Mikepenz, EmanuelBalea</copyright>
+    <tags>Google-Material-Typeface, Android-Iconics, Xamarin, Android</tags>
+    <frameworkAssemblies />
+    <dependencies>
+      <group>
+        <dependency id="AndroidIconics.Xamarin.Droid" version="2.6.6.1" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Projects\Google-Material-Typeface\bin\Release\GoogleMaterialTypeface.dll" target="lib\MonoAndroid403" />
+  </files>
+</package>
